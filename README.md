@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ethereum
 ========
 
@@ -106,3 +107,7 @@ expect you to write tests for me so I don't have to test your code
 manually. (If you want to contribute by just writing tests that's fine
 too!)
 
+=======
+ether
+=====
+>>>>>>> b9e1d38f7c63e294db8ea31db9422c7da82e95f0
